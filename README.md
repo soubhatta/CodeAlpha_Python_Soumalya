@@ -1,2 +1,2 @@
 # CodeAlpha_Python_Soumalya
-Projects on Python Programming
+Projects on Python Programming Internship
